@@ -40,3 +40,10 @@ type: docs
 |1030. Matrix Cells in Distance Order  | [Go]({{< relref "/ChapterFour/1030.Matrix-Cells-in-Distance-Order.md" >}})| Easy | O(n^2)| O(1) ||
 |1054. Distant Barcodes | [Go]({{< relref "/ChapterFour/1054.Distant-Barcodes.md" >}})| Medium | O(n log n)| O(log n) |❤️|
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Hash_Table/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Bit_Manipulation/">下一页➡️</a></p>
+</div>

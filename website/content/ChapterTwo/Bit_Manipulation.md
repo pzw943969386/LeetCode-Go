@@ -72,3 +72,10 @@ X & ~X = 0
 |784. Letter Case Permutation | [Go]({{< relref "/ChapterFour/0784.Letter-Case-Permutation.md" >}})| Easy | O(n)| O(1)||
 |898. Bitwise ORs of Subarrays | [Go]({{< relref "/ChapterFour/0898.Bitwise-ORs-of-Subarrays.md" >}})| Medium | O(n)| O(1)||
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Sort/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Union_Find/">下一页➡️</a></p>
+</div>

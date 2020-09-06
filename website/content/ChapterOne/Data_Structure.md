@@ -22,3 +22,13 @@ type: docs
 |树实现的堆|1. 左堆<br>2. 扁堆<br>3. 二项式堆<br>4. 斐波那契堆<br>5. 配对堆|||
 |查找|1. 哈希表<br>2. 跳跃表<br>3. 排序二叉树<br>4. AVL 树<br>5. B 树 / B+ 树 / B* 树<br>6. AA 树<br>7. 红黑树<br>8. 排序二叉堆<br>9. Splay 树<br>10. 双链树<br>11. Trie 树<br>12. R 树|||
 |--------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------|-----------------------------------|
+
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterOne/#%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterOne/Algorithm/">下一页➡️</a></p>
+</div>
+    
+    

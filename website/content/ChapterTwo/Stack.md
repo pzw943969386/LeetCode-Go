@@ -52,3 +52,10 @@ type: docs
 |1021. Remove Outermost Parentheses | [Go]({{< relref "/ChapterFour/1021.Remove-Outermost-Parentheses.md" >}})| Medium | O(n)| O(1)||
 |1047. Remove All Adjacent Duplicates In String | [Go]({{< relref "/ChapterFour/1047.Remove-All-Adjacent-Duplicates-In-String.md" >}})| Medium | O(n)| O(1)||
 |---------------------------------------|-----------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Linked_List/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Tree/">下一页➡️</a></p>
+</div>

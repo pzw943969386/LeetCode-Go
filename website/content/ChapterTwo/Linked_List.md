@@ -51,3 +51,11 @@ type: docs
 |876. Middle of the Linked List | [Go]({{< relref "/ChapterFour/0876.Middle-of-the-Linked-List.md" >}})| Easy | O(n)| O(1)|❤️|
 |1019. Next Greater Node In Linked List | [Go]({{< relref "/ChapterFour/1019.Next-Greater-Node-In-Linked-List.md" >}})| Medium | O(n)| O(1)||
 |---------------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Two_Pointers/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Stack/">下一页➡️</a></p>
+</div>

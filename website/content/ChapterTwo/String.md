@@ -28,3 +28,10 @@ type: docs
 |925. Long Pressed Name | [Go]({{< relref "/ChapterFour/0925.Long-Pressed-Name.md" >}})| Easy | O(n)| O(1)||
 |1003. Check If Word Is Valid After Substitutions | [Go]({{< relref "/ChapterFour/1003.Check-If-Word-Is-Valid-After-Substitutions.md" >}})| Medium | O(n)| O(1)||
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Array/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Two_Pointers/">下一页➡️</a></p>
+</div>

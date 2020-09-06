@@ -41,3 +41,10 @@ type: docs
 |1052. Grumpy Bookstore Owner | [Go]({{< relref "/ChapterFour/1052.Grumpy-Bookstore-Owner.md" >}})| Medium | O(n log n)| O(1) ||
 |1074. Number of Submatrices That Sum to Target | [Go]({{< relref "/ChapterFour/1074.Number-of-Submatrices-That-Sum-to-Target.md" >}})| Hard | O(n^3)| O(n) |❤️|
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Union_Find/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Segment_Tree/">下一页➡️</a></p>
+</div>

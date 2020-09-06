@@ -41,3 +41,10 @@ type: docs
 |637. Average of Levels in Binary Tree | [Go]({{< relref "/ChapterFour/0637.Average-of-Levels-in-Binary-Tree.md" >}})| Easy | O(n)| O(n)||
 |993. Cousins in Binary Tree | [Go]({{< relref "/ChapterFour/0993.Cousins-in-Binary-Tree.md" >}})| Easy | O(n)| O(1)||
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Stack/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Dynamic_Programming/">下一页➡️</a></p>
+</div>

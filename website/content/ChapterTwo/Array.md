@@ -60,3 +60,10 @@ type: docs
 |969. Pancake Sorting  | [Go]({{< relref "/ChapterFour/0969.Pancake-Sorting.md" >}})| Medium | O(n)| O(1)|❤️|
 |977. Squares of a Sorted Array  | [Go]({{< relref "/ChapterFour/0977.Squares-of-a-Sorted-Array.md" >}})| Easy | O(n)| O(1)||
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/String/">下一页➡️</a></p>
+</div>

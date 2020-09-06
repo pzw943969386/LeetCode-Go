@@ -22,3 +22,10 @@ type: docs
 |542. 01 Matrix  | [Go]({{< relref "/ChapterFour/0542.01-Matrix.md" >}})| Medium | O(n)| O(1)||
 |993. Cousins in Binary Tree | [Go]({{< relref "/ChapterFour/0993.Cousins-in-Binary-Tree.md" >}})| Easy | O(n)| O(1)||
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Depth_First_Search/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Binary_Search/">下一页➡️</a></p>
+</div>

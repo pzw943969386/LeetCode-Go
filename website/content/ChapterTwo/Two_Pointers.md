@@ -81,3 +81,10 @@ type: docs
 |1004. Max Consecutive Ones III | [Go]({{< relref "/ChapterFour/1004.Max-Consecutive-Ones-III.md" >}})| Medium | O(n)| O(1) ||
 |1093. Statistics from a Large Sample | [Go]({{< relref "/ChapterFour/1093.Statistics-from-a-Large-Sample.md" >}})| Medium | O(n)| O(1) ||
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/String/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Linked_List/">下一页➡️</a></p>
+</div>

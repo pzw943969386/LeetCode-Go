@@ -130,3 +130,10 @@ func updateMatrix_BFS(matrix [][]int) [][]int {
 |996. Number of Squareful Arrays | [Go]({{< relref "/ChapterFour/0996.Number-of-Squareful-Arrays.md" >}})| Hard | O(n log n)| O(n) ||
 |1079. Letter Tile Possibilities | [Go]({{< relref "/ChapterFour/1079.Letter-Tile-Possibilities.md" >}})| Medium | O(n^2)| O(1)|❤️|
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Dynamic_Programming/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Depth_First_Search/">下一页➡️</a></p>
+</div>

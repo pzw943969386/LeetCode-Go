@@ -41,3 +41,10 @@ type: docs
 |930. Binary Subarrays With Sum | [Go]({{< relref "/ChapterFour/0930.Binary-Subarrays-With-Sum.md" >}})| Medium | O(n)| O(n)  |❤️|
 |992. Subarrays with K Different Integers | [Go]({{< relref "/ChapterFour/0992.Subarrays-with-K-Different-Integers.md" >}})| Hard | O(n)| O(n)  |❤️|
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Math/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Sort/">下一页➡️</a></p>
+</div>

@@ -46,3 +46,10 @@ type: docs
 |850. Rectangle Area II  | [Go]({{< relref "/ChapterFour/0850.Rectangle-Area-II.md" >}})| Hard | O(n log n)| O(n)|❤️|
 |1157. Online Majority Element In Subarray | [Go]({{< relref "/ChapterFour/1157.Online-Majority-Element-In-Subarray.md" >}})| Hard | O(log n)| O(n)|❤️|
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Sliding_Window/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Binary_Indexed_Tree/">下一页➡️</a></p>
+</div>

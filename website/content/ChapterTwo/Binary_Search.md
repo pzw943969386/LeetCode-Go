@@ -143,3 +143,10 @@ func peakIndexInMountainArray(A []int) int {
 |454. 4Sum II | [Go]({{< relref "/ChapterFour/0454.4Sum-II.md" >}})| Medium | O(n^2)| O(n) ||
 |710. Random Pick with Blacklist | [Go]({{< relref "/ChapterFour/0710.Random-Pick-with-Blacklist.md" >}})| Hard | O(n)| O(n)  ||
 |-----------------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Breadth_First_Search/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Math/">下一页➡️</a></p>
+</div>

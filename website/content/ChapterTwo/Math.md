@@ -26,3 +26,10 @@ type: docs
 |996. Number of Squareful Arrays | [Go]({{< relref "/ChapterFour/0996.Number-of-Squareful-Arrays.md" >}})| Hard | O(n log n)| O(n) ||
 |1025. Divisor Game | [Go]({{< relref "/ChapterFour/1025.Divisor-Game.md" >}})| Easy | O(1)| O(1)||
 |---------------------------------------|---------------------------------|--------------------------|-----------------------|-----------|--------|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Binary_Search/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Hash_Table/">下一页➡️</a></p>
+</div>
